@@ -1,8 +1,6 @@
 package com.example.myapplication;
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -13,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void button() {
-        //你最近过的好嘛，是否也依然想家，最爱的人能给你拥抱吗？
+        //我的天
+
+        //sddasd
     }
 }
