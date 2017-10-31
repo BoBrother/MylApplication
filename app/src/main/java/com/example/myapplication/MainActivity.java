@@ -11,8 +11,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void button() {
-        //我的天
-
-        //sddasd
+        //我的天啦啦
     }
 }
